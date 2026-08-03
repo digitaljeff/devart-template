@@ -3,7 +3,7 @@ import crypto from 'node:crypto';
 import { createSeed } from './seed.js';
 
 export const ADMIN_EMAIL='jeff@labs.vip';
-export const SETUP_TOKEN_HASH='8b2f283a715ed7ff469d5150d98645f52b532d380da4e33f835d95a75251574d';
+export const SETUP_TOKEN_HASH='1400608b771c6285dff04bd3e8e6ed90cdbede65a3cad213760b696dea673fa6';
 export const RECOVERY_TOKEN_HASH='d0f98bee4b2a96c8081c1b476b29dc226da7341612598cfa45628577a8fba959';
 let dbClient=null, schemaPromise=null;
 
