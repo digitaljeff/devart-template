@@ -1,0 +1,1 @@
+{"name":"build-the-future-cloud","version":"2.0.0","private":true,"type":"module","dependencies":{"@neondatabase/serverless":"^1.0.2","@vercel/blob":"^2.0.0","bcryptjs":"^3.0.2"},"engines":{"node":"24.x"}}
